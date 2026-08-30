@@ -1,6 +1,7 @@
-    <p align="center">
-      <img src="./banner.png" alt="CHASKAA Food Delivery" width="100%">
-    </p>
+  <p align="center">
+  <img src="banner.png" alt="CHASKAA Food Delivery" width="100%">
+</p>
+
 
 # About The Project
 
