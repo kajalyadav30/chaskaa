@@ -19,8 +19,8 @@ const port = 4000;
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(
-  cors({
-    origin: ["http://localhost:5173", "http://localhost:5174", "https://chaskaa.vercel.app"],
+     cors({
+    origin: ["http://localhost:5173", "http://localhost:5174", "https://chaskaa.vercel.app", "https://chaskaa-admin.vercel.app", "https://chaskaa-frontend.vercel.app"],
     credentials: true,
   })
 );
